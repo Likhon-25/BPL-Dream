@@ -1,5 +1,5 @@
 import React, { use } from 'react';
-import AvailablePlayers from '../../AvailablePlayers/AvailablePlayers';
+import AvailablePlayers from './AvailablePlayers/AvailablePlayers';
 
 const Players = ({playersPromise}) => {
     // console.log(playersPromise)
