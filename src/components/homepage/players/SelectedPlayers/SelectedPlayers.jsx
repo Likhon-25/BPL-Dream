@@ -1,6 +1,7 @@
-import React from "react";
+import React, {} from "react";
 
-const SelectedPlayers = () => {
+const SelectedPlayers = ({selectedPlayers}) => {
+  console.log(selectedPlayers , 'selectedPlayers');
   return <div>Selected Players</div>;
 };
 
