@@ -6,7 +6,7 @@
     "rating": 95,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
+    "price": 150,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 92,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1400000,
+    "price": 500,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 90,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 1450000,
+    "price": 200,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 91,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1350000,
+    "price": 100,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 93,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
-    "price": 1300000,
+    "price": 500000,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 94,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 1400000,
+    "price": 140,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 93,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1380000,
+    "price": 138,
     "playerImage": "https://i.ibb.co.com/zW2JTWRs/return-of-shakib-al-hasan-bcb-initiative-or-publicity-stunt.jpg"
   }
 ]

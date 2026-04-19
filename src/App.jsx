@@ -17,7 +17,7 @@ function App() {
       <Banner />
 
       <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
-        <Players playersPromise={playersPromise} setCoin={setCoin} />
+        <Players playersPromise={playersPromise} setCoin={setCoin} coin={coin} />
       </Suspense>
     </div>
   );
