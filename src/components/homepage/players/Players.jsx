@@ -16,7 +16,9 @@ const Players = ({ playersPromise, setCoin, coin }) => {
         {selectedType === "available" ? (
           <h2 className="font-bold text-3xl">Available Players</h2>
         ) : (
-          <h2 className="font-bold text-3xl">Selected Players ({selectedPlayers.length}/{players.length})</h2>
+          <h2 className="font-bold text-3xl">
+            Selected Players ({selectedPlayers.length}/{players.length})
+          </h2>
         )}
 
         <div>
@@ -44,7 +46,12 @@ const Players = ({ playersPromise, setCoin, coin }) => {
           selectedPlayers={selectedPlayers}
         />
       ) : (
-        <SelectedPlayers selectedPlayers={selectedPlayers} />
+        <SelectedPlayers
+          selectedPlayers={selectedPlayers}
+          setSelectedPlayers={setSelectedPlayers}
+          setCoin={setCoin}
+          coin={coin}
+        />
       )}
     </div>
   );
